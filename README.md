@@ -1,6 +1,10 @@
 # JASYL · Astana Green CRM Demo
 Презентационная CRM озеленения на русском с мобильным интерфейсом сотрудника. **СИМУЛЯЦИЯ: вымышленные сотрудники, условные координаты, синтетические иллюстрации.**
 
+Публичный стенд: https://milaniumkz.github.io/astana-green-crm-demo/
+
+Мобильный экран: https://milaniumkz.github.io/astana-green-crm-demo/#mobile
+
 ## Запуск
 Требуется Node.js 22.12+ или 24 и npm.
 ```sh
